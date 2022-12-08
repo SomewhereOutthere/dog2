@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Poppins:ital,wght@0,300;0,400;0,700;0,800;1,700&display=swap');
+
+.pet-logo {
+    display: inline-block;
+    background-color: #EED7C5;
+    border-radius: 8px;
+    padding: 32px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+
+}
+
+.pet-img {
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    border: 8px solid #B36A5E;
+}
+
+.pet-name {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: #B36A5E;
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+
+}
